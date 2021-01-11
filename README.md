@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md Moshiur Rahman</h1>
 
-  <p>I’m undergrad student (Senior Year) from Computer Science and Engineering major from University of Asia Pacific. </p>
+  <p>I’m undergrad student (Senior Year) of Computer Science and Engineering major from University of Asia Pacific. </p>
   <p>Last year I worked with web development using the Django framework. I finish two projects there. One is how to calculate the amount of time software is working with. The other one is, Virtual Assistant, it will help you find the rider or ordering food.. <p>
   <p>Previously I participated in several national and international programming competitions. <p>
   <p>Aside from working with data, I'm a big fan of Prophet Muhammad (SA) his companion Umar Ibn Al-Khattab. I read their biography. I try to bring their thoughts into my own. <p>
