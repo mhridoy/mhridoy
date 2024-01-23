@@ -20,8 +20,7 @@
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://twitter.com/_mhridoy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mhridoy" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mhridoy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mhridoy" height="30" width="40" /></a>
+
 <a href="https://fb.com/mhridoy.edu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mhridoy" height="30" width="40" /></a>
 <a href="https://instagram.com/mhridoy_edu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mhridoy" height="30" width="40" /></a>
 <a href="https://youtube.com/mhridoy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="mhridoy" height="30" width="40" /></a>
